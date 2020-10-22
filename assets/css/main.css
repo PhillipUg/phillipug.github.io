@@ -3902,18 +3902,10 @@ input, select, textarea {
 
 		}
 
-		/* ADDING IMAGE */
-		.myheader {
-			display: flex;
-			margin: 0 5%;
-		}
+	
+		
 
-		.inner1 {
-			flex: 1;
-			padding-right: 5%;
-		}
-
-		.inner2 {
+		/* .inner2 {
 			flex: 1;
 			margin: 0 auto;
 			border-radius: 50%;
@@ -3923,4 +3915,4 @@ input, select, textarea {
 			background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
-		}
+		} */
